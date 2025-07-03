@@ -3,6 +3,10 @@
 
 ![demo image](./assets/demo1.png)
 
+## Parallel Downloads
+
+![demo image](./assets/demo5.png)
+
 ## Known Issues
 - [x] ~~Fix a minor bug: downloading two videos with the same ID causes their progress trackers to collide,
 this will be addressed in a future release.~~
@@ -26,7 +30,6 @@ video's res is available ie due to init/variable being read during init phase an
 
 ![demo image](./assets/demo3.png)
 
-![demo image](./assets/demo5.png)
 
 ## Tech stack used
 1. Tailwind Css
