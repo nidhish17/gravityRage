@@ -1,3 +1,4 @@
+# In Progress [80%]
 # GravityRage
 1. A YouTube downloader GUI built with pywebview and yt-dlp
 
