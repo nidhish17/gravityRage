@@ -1,5 +1,5 @@
 # In Progress [80%]
-# GravityRage 
+# GravityBlu
 ###(rageSnatch previously)
 1. A YouTube downloader GUI built with pywebview and yt-dlp
 
